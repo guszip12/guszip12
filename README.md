@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @guszip12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## How to run the code
+- cd laravel-11-multi-auth
+- cp .env.example `.env`
+- run : `composer install`
+- run : `php artisan key:generate`
+- run : `php artisan migrate:fresh
+- run : `php artisan serve`
+
+- Best of luck 
 
 <!---
 guszip12/guszip12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
