@@ -5,6 +5,7 @@
 - run : `php artisan key:generate`
 - run : `php artisan migrate:fresh`
 - run : `php artisan serve`
+- run : `Xampp Apache & MySQL`
 
 - Best of luck 
 
